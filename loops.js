@@ -7,4 +7,5 @@ function forLoop(stuff){
     stuff.push(`I am ${i} strange loops.`)
     }
   }
+  return array;
 }
