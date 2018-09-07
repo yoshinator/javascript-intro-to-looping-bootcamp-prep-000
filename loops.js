@@ -17,7 +17,7 @@ function whileLoop(number){
   return "done";
 }
 
-function doWhile(array){
+function doWhileLoop(array){
   do{
     array.pop();
   }
