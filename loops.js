@@ -23,3 +23,7 @@ function doWhile(array){
   }
   while()
 }
+
+function incrementVariable() {
+  i = i + 1;
+}
