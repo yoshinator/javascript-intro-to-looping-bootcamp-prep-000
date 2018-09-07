@@ -10,7 +10,7 @@ function forLoop(stuff){
   return stuff;
 }
 
-function whileLoop(Number){
+function whileLoop(number){
   while (number > 0){
     console.log(--number)
   }
