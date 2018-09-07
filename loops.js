@@ -1,4 +1,5 @@
-  var i = 0;
+var i = 0;
+
 function forLoop(stuff){
   for (var i = 0; i < 25; i++){
     if (i ===1){
