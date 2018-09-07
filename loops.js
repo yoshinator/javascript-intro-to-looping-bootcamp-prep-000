@@ -1,5 +1,5 @@
 function forLoop(stuff){
-  for (var i =0; i < 25; i++){
+  for (var i = 0; i < 25; i++){
     if (i ===1){
     stuff.push('I am 1 strange loop.')
     }
@@ -7,5 +7,5 @@ function forLoop(stuff){
     stuff.push(`I am ${i} strange loops.`)
     }
   }
-  return array;
+  return stuff;
 }
